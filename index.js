@@ -20,7 +20,6 @@ return ("I can\'t hear you!")
   
 } 
 
-function sayHiToGrandma(string){
-  if ("I can")
-  return("YES INDEED")
-}
+ function sayHiToGrandma (string) {
+   if ("HELLO") return ("YES INDEED!")
+ }
