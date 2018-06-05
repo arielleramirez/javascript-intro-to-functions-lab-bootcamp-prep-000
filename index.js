@@ -20,6 +20,3 @@ return ("I can\'t hear you!")
   
 } 
 
- function sayHiToGrandma (string) {
-   if ("I can\'t hear you!") return ("YES INDEED!")
- }
